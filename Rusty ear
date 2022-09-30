@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rusty ear</title>
+</head>
+<body>
+    <hr style size="1">
+    <h1 align="center">Альбом Rusty Ear</h1>
+    <h3 align="center">От z0n0z и nerson</h3>
+    <hr style size="1">
+    <audio controls>
+        <source src="z0n0z, nerson, 21 Savage - Projekt Pat.mp3" type="audio/mpeg"> 
+            </audio>
+            <audio controls>
+                <source src="z0n0z, nerson, Polo G - SHANKOSTAR.mp3">
+            </audio>
+            <audio controls>
+                <source src="z0n0z, nerson, Yeat - Ass Farting.mp3">
+            </audio>
+            
+           <img src="img/one.jpg" width="200" height="200" align="left">
+           <img src="img/two.jpg" width="200" height="200" align="right">
+        </body>
+</html>
